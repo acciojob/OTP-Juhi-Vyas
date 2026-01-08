@@ -1,1 +1,34 @@
-/*  your css code here. If applicable */
+#main{
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	border: 3px solid black;
+	border-radius: 20px;
+	padding: 30px;
+	
+}
+#verification_heading{
+	margin:0px;
+}
+#verification_subtex{
+	font-weight: 50;
+}
+.code-container{
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+.code{
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	font-size: 40px;
+	background-color: lightblue;
+	
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
