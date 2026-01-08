@@ -11,7 +11,7 @@
 #verification_heading{
 	margin:0px;
 }
-#verification_subtex{
+#verification_subtext{
 	font-weight: 50;
 }
 .code-container{
@@ -24,7 +24,6 @@
 	height: 50px;
 	text-align: center;
 	font-size: 40px;
-	background-color: lightblue;
 	
 }
 input::-webkit-outer-spin-button,
